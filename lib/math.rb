@@ -31,9 +31,16 @@ end
 multiplication(num1, num2)
 
 def modulo(num1, num2)
-
+puts num1 = 4.0
+puts num2 = 3.0
+puts num1 / num2
 end
+
+modulo(num1, num2)
 
 def square_root(num)
-
+  puts num = 9
+  puts square_root num
 end
+
+square_root(num)
